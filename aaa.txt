@@ -1,5 +1,6 @@
 ¿Sabias que este es un archivo de prueba?
-
 En realidad no me importa tu respuesta.
-
 Solo estoy aprendido a usar git y github viendo un video.
+Rojo
+Azul
+Verde
