@@ -1,7 +1,8 @@
-¿Sabias que este es un archivo de prueba?
+﻿¿Sabias que este es un archivo de prueba?
 En realidad no me importa tu respuesta.
 Solo estoy aprendido a usar git y github viendo un video.
 Rojo
 Azul
 Verde
 Esta es una linea de texto nueva (No se me ocurrio nada para agregar).
+Acabo de agregar una linea nueva desde mi editor offline.
